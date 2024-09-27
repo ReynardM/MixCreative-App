@@ -1,41 +1,43 @@
 # MixCreative-App
-MixCreative-App is an innovative tool designed to help creative and marketing agencies seamlessly manage creative requests from their clients. The app streamlines the briefing, delivery, and communication processes between agencies and customers, ensuring faster and more efficient project turnarounds.
 
-Table of Contents
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-Features
-Seamless Request Management: Easily manage and track creative requests from clients, ensuring all briefs are clear and organized.
-Streamlined Communication: Improve communication between your team and clients, reducing back-and-forth and speeding up project delivery.
-Efficient Briefing and Delivery: Tools to simplify the briefing process, helping teams deliver projects on time and meet client expectations.
-Collaboration Tools: Facilitate better collaboration within your agency and with your clients, keeping everyone aligned.
-Installation
+**MixCreative-App** is an innovative tool designed to help creative and marketing agencies seamlessly manage creative requests from their clients. The app streamlines the briefing, delivery, and communication processes between agencies and customers, ensuring faster and more efficient project turnarounds.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- **Seamless Request Management**: Easily manage and track creative requests from clients, ensuring all briefs are clear and organized.
+- **Streamlined Communication**: Improve communication between your team and clients, reducing back-and-forth and speeding up project delivery.
+- **Efficient Briefing and Delivery**: Tools to simplify the briefing process, helping teams deliver projects on time and meet client expectations.
+- **Collaboration Tools**: Facilitate better collaboration within your agency and with your clients, keeping everyone aligned.
+
+## Installation
+
 To get started with MixCreative-App, follow these simple steps:
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/mixcreative-app.git
 
-bash
-Copy code
-git clone https://github.com/yourusername/mixcreative-app.git
-Navigate to the project directory:
+2. Navigate to the project directory:
+   ```bash
+   cd mixcreative-app
 
-bash
-Copy code
-cd mixcreative-app
-Install the necessary dependencies:
+3. Install the necessary dependencies:
+   ```bash
+   npm install
 
-bash
-Copy code
-npm install
-Start the application:
-
-bash
-Copy code
-npm start
+4. Start the application:
+   ```bash
+   npm start
+   
 Usage
 Once the application is running, you can log in with your account credentials, navigate through the dashboard to access various tools, and start managing creative requests from your clients. Detailed documentation can be found in the docs folder.
 
