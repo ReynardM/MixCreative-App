@@ -38,25 +38,27 @@ To get started with MixCreative-App, follow these simple steps:
    ```bash
    npm start
    
-Usage
+## Usage
 Once the application is running, you can log in with your account credentials, navigate through the dashboard to access various tools, and start managing creative requests from your clients. Detailed documentation can be found in the docs folder.
 
-Contributing
+## Contributing
 We welcome contributions! To contribute to MixCreative-App, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch-name).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch-name).
-Open a Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch-name).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch-name).
+5. Open a Pull Request.
+
 Please make sure to update tests as appropriate.
 
-License
+# License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
-Contact
+# Contact
 For questions or support, please contact:
 
-Reynard L Muliaina
-Email: rey@mixcreative.au
+- **Reynard L Muliaina**
+   - Email: rey@mixcreative.au
+
 Feel free to reach out with any feedback or questions!
